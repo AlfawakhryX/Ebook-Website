@@ -18,6 +18,8 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 
 This website is built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). It uses [Font Awesome](https://fontawesome.com/) for icons.
 
+You can access the live deployment of this website on Vercel: [Ebook Website Deployment](https://ebook-website-two-bay.vercel.app/).
+
 In order to customize this website, you need to install [Node.js](https://nodejs.org/en/). Then, clone this repository and run:
 
 ```bash
